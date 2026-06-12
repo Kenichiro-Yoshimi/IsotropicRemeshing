@@ -1,0 +1,12 @@
+# build artifacts
+build/
+out/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# misc
+*.bak
+*.tmp
